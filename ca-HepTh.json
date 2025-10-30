@@ -1,0 +1,103 @@
+{
+  "summary": {
+    "directed_input": false,
+    "nodes": 9875,
+    "edges_undirected": 25973,
+    "avg_degree_undirected": 5.260354,
+    "min_degree": 1,
+    "max_degree": 65,
+    "density": 0.00053275
+  },
+  "degree": {
+    "histogram": [
+      {"degree": 1, "count": 2109},
+      {"degree": 2, "count": 2014},
+      {"degree": 3, "count": 1446},
+      {"degree": 4, "count": 850},
+      {"degree": 5, "count": 627},
+      {"degree": 6, "count": 467},
+      {"degree": 7, "count": 371},
+      {"degree": 8, "count": 310},
+      {"degree": 9, "count": 247},
+      {"degree": 10, "count": 225},
+      {"degree": 11, "count": 133},
+      {"degree": 12, "count": 129},
+      {"degree": 13, "count": 120},
+      {"degree": 14, "count": 87},
+      {"degree": 15, "count": 88},
+      {"degree": 16, "count": 72},
+      {"degree": 17, "count": 57},
+      {"degree": 18, "count": 75},
+      {"degree": 19, "count": 52},
+      {"degree": 20, "count": 47},
+      {"degree": 21, "count": 27},
+      {"degree": 22, "count": 37},
+      {"degree": 23, "count": 52},
+      {"degree": 24, "count": 23},
+      {"degree": 25, "count": 23},
+      {"degree": 26, "count": 14},
+      {"degree": 27, "count": 16},
+      {"degree": 28, "count": 15},
+      {"degree": 29, "count": 10},
+      {"degree": 30, "count": 8},
+      {"degree": 31, "count": 30},
+      {"degree": 32, "count": 11},
+      {"degree": 33, "count": 7},
+      {"degree": 34, "count": 10},
+      {"degree": 35, "count": 6},
+      {"degree": 36, "count": 7},
+      {"degree": 37, "count": 6},
+      {"degree": 38, "count": 9},
+      {"degree": 39, "count": 4},
+      {"degree": 40, "count": 5},
+      {"degree": 41, "count": 1},
+      {"degree": 42, "count": 5},
+      {"degree": 43, "count": 4},
+      {"degree": 44, "count": 3},
+      {"degree": 45, "count": 2},
+      {"degree": 46, "count": 1},
+      {"degree": 49, "count": 2},
+      {"degree": 50, "count": 2},
+      {"degree": 51, "count": 2},
+      {"degree": 53, "count": 2},
+      {"degree": 54, "count": 1},
+      {"degree": 56, "count": 1},
+      {"degree": 59, "count": 1},
+      {"degree": 60, "count": 1},
+      {"degree": 65, "count": 1}
+    ],
+    "top_k": [
+      {"node_index": 86, "original_id": 1441, "degree": 65},
+      {"node_index": 15, "original_id": 19615, "degree": 60},
+      {"node_index": 54, "original_id": 63113, "degree": 59},
+      {"node_index": 920, "original_id": 30744, "degree": 56},
+      {"node_index": 163, "original_id": 16164, "degree": 54},
+      {"node_index": 1546, "original_id": 23420, "degree": 53},
+      {"node_index": 35, "original_id": 59077, "degree": 53},
+      {"node_index": 1420, "original_id": 48973, "degree": 51},
+      {"node_index": 1873, "original_id": 44262, "degree": 51},
+      {"node_index": 38, "original_id": 61742, "degree": 50}
+    ]
+  },
+  "connectivity": {
+    "components": 427,
+    "giant_component_size": 8638,
+    "component_sizes_desc": [8638, 21, 11, 9, 9, 8, 8, 8, 8, 8, 8, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 6, 6, 6, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+  },
+  "paths": {
+    "reachable_pairs": 37305004,
+    "average_shortest_path": 5.945216,
+    "diameter": 18
+  },
+  "clustering": {
+    "average_local": 0.471535,
+    "triangles_total": 28339
+  },
+  "ring_demo": {
+    "topk": 10,
+    "ring_sum_degrees_twice": 1104
+  },
+  "ids_demo": {
+    "sorted_original_ids_sample": [1, 5, 16, 20, 27, 30, 38, 39, 40, 44]
+  }
+}

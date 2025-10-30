@@ -1,0 +1,149 @@
+{
+  "experiment": "watts_strogatz_beta_sweep",
+  "timestamp": "2025-10-30T19:56:42",
+  "fixed_parameters": {
+    "nodes": 500,
+    "neighbors": 6,
+    "seed": 12345,
+    "layout": "Ring",
+    "exact_ads": true
+  },
+  "results": [
+    {
+      "beta": 0.000,
+      "parameters": {
+        "n": 500,
+        "k": 6,
+        "seed": 12345,
+        "layout": "Ring"
+      },
+      "metrics": {
+        "average_degree_separation": 42.084168,
+        "clustering_coefficient": 0.600000,
+        "giant_component_percentage": 100.00,
+        "giant_component_size": 500,
+        "num_components": 1,
+        "edge_count": 1500
+      }
+    },
+    {
+      "beta": 0.010,
+      "parameters": {
+        "n": 500,
+        "k": 6,
+        "seed": 12345,
+        "layout": "Ring"
+      },
+      "metrics": {
+        "average_degree_separation": 13.326581,
+        "clustering_coefficient": 0.582305,
+        "giant_component_percentage": 100.00,
+        "giant_component_size": 500,
+        "num_components": 1,
+        "edge_count": 1500
+      }
+    },
+    {
+      "beta": 0.050,
+      "parameters": {
+        "n": 500,
+        "k": 6,
+        "seed": 12345,
+        "layout": "Ring"
+      },
+      "metrics": {
+        "average_degree_separation": 6.920096,
+        "clustering_coefficient": 0.519300,
+        "giant_component_percentage": 100.00,
+        "giant_component_size": 500,
+        "num_components": 1,
+        "edge_count": 1500
+      }
+    },
+    {
+      "beta": 0.100,
+      "parameters": {
+        "n": 500,
+        "k": 6,
+        "seed": 12345,
+        "layout": "Ring"
+      },
+      "metrics": {
+        "average_degree_separation": 5.479575,
+        "clustering_coefficient": 0.447460,
+        "giant_component_percentage": 100.00,
+        "giant_component_size": 500,
+        "num_components": 1,
+        "edge_count": 1500
+      }
+    },
+    {
+      "beta": 0.200,
+      "parameters": {
+        "n": 500,
+        "k": 6,
+        "seed": 12345,
+        "layout": "Ring"
+      },
+      "metrics": {
+        "average_degree_separation": 4.645299,
+        "clustering_coefficient": 0.336629,
+        "giant_component_percentage": 100.00,
+        "giant_component_size": 500,
+        "num_components": 1,
+        "edge_count": 1500
+      }
+    },
+    {
+      "beta": 0.400,
+      "parameters": {
+        "n": 500,
+        "k": 6,
+        "seed": 12345,
+        "layout": "Ring"
+      },
+      "metrics": {
+        "average_degree_separation": 4.097675,
+        "clustering_coefficient": 0.196598,
+        "giant_component_percentage": 100.00,
+        "giant_component_size": 500,
+        "num_components": 1,
+        "edge_count": 1500
+      }
+    },
+    {
+      "beta": 0.800,
+      "parameters": {
+        "n": 500,
+        "k": 6,
+        "seed": 12345,
+        "layout": "Ring"
+      },
+      "metrics": {
+        "average_degree_separation": 3.787391,
+        "clustering_coefficient": 0.060320,
+        "giant_component_percentage": 100.00,
+        "giant_component_size": 500,
+        "num_components": 1,
+        "edge_count": 1500
+      }
+    },
+    {
+      "beta": 1.000,
+      "parameters": {
+        "n": 500,
+        "k": 6,
+        "seed": 12345,
+        "layout": "Ring"
+      },
+      "metrics": {
+        "average_degree_separation": 3.741579,
+        "clustering_coefficient": 0.036566,
+        "giant_component_percentage": 100.00,
+        "giant_component_size": 500,
+        "num_components": 1,
+        "edge_count": 1500
+      }
+    }
+  ]
+}

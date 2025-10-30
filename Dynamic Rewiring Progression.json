@@ -1,0 +1,410 @@
+[
+  {
+    "tick": 0,
+    "rewire_percentage": 0,
+    "ADS": 42.084168,
+    "Avg_Clustering": 0.6,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 4.95
+  },
+  {
+    "tick": 1,
+    "rewire_percentage": 2,
+    "ADS": 9.015575,
+    "Avg_Clustering": 0.567705,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 3.46
+  },
+  {
+    "tick": 2,
+    "rewire_percentage": 4,
+    "ADS": 7.251455,
+    "Avg_Clustering": 0.536671,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 4.12
+  },
+  {
+    "tick": 3,
+    "rewire_percentage": 6,
+    "ADS": 6.312778,
+    "Avg_Clustering": 0.507224,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 4.62
+  },
+  {
+    "tick": 4,
+    "rewire_percentage": 8,
+    "ADS": 5.849459,
+    "Avg_Clustering": 0.477619,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 4.57
+  },
+  {
+    "tick": 5,
+    "rewire_percentage": 10,
+    "ADS": 5.417643,
+    "Avg_Clustering": 0.452265,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 4.66
+  },
+  {
+    "tick": 6,
+    "rewire_percentage": 12,
+    "ADS": 5.239006,
+    "Avg_Clustering": 0.428446,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 4.6
+  },
+  {
+    "tick": 7,
+    "rewire_percentage": 14,
+    "ADS": 5.049764,
+    "Avg_Clustering": 0.406563,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 4.57
+  },
+  {
+    "tick": 8,
+    "rewire_percentage": 16,
+    "ADS": 4.89584,
+    "Avg_Clustering": 0.384022,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 4.77
+  },
+  {
+    "tick": 9,
+    "rewire_percentage": 18,
+    "ADS": 4.767735,
+    "Avg_Clustering": 0.364121,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 4.8
+  },
+  {
+    "tick": 10,
+    "rewire_percentage": 20,
+    "ADS": 4.684361,
+    "Avg_Clustering": 0.345968,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 4.9
+  },
+  {
+    "tick": 11,
+    "rewire_percentage": 22,
+    "ADS": 4.60222,
+    "Avg_Clustering": 0.329254,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.06
+  },
+  {
+    "tick": 12,
+    "rewire_percentage": 24,
+    "ADS": 4.505427,
+    "Avg_Clustering": 0.313889,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.02
+  },
+  {
+    "tick": 13,
+    "rewire_percentage": 26,
+    "ADS": 4.43984,
+    "Avg_Clustering": 0.297967,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.17
+  },
+  {
+    "tick": 14,
+    "rewire_percentage": 28,
+    "ADS": 4.371206,
+    "Avg_Clustering": 0.276663,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 4.98
+  },
+  {
+    "tick": 15,
+    "rewire_percentage": 30,
+    "ADS": 4.296994,
+    "Avg_Clustering": 0.260432,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 4.99
+  },
+  {
+    "tick": 16,
+    "rewire_percentage": 32,
+    "ADS": 4.252882,
+    "Avg_Clustering": 0.249841,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.16
+  },
+  {
+    "tick": 17,
+    "rewire_percentage": 34,
+    "ADS": 4.207142,
+    "Avg_Clustering": 0.233217,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.41
+  },
+  {
+    "tick": 18,
+    "rewire_percentage": 36,
+    "ADS": 4.163663,
+    "Avg_Clustering": 0.214235,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.33
+  },
+  {
+    "tick": 19,
+    "rewire_percentage": 38,
+    "ADS": 4.127808,
+    "Avg_Clustering": 0.203595,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.35
+  },
+  {
+    "tick": 20,
+    "rewire_percentage": 40,
+    "ADS": 4.092088,
+    "Avg_Clustering": 0.192365,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.24
+  },
+  {
+    "tick": 21,
+    "rewire_percentage": 42,
+    "ADS": 4.06105,
+    "Avg_Clustering": 0.179897,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.4
+  },
+  {
+    "tick": 22,
+    "rewire_percentage": 44,
+    "ADS": 4.038982,
+    "Avg_Clustering": 0.170825,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 6.38
+  },
+  {
+    "tick": 23,
+    "rewire_percentage": 46,
+    "ADS": 4.003014,
+    "Avg_Clustering": 0.16103,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.55
+  },
+  {
+    "tick": 24,
+    "rewire_percentage": 48,
+    "ADS": 3.989355,
+    "Avg_Clustering": 0.151783,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.46
+  },
+  {
+    "tick": 25,
+    "rewire_percentage": 50,
+    "ADS": 3.963054,
+    "Avg_Clustering": 0.143954,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.49
+  },
+  {
+    "tick": 26,
+    "rewire_percentage": 52,
+    "ADS": 3.935816,
+    "Avg_Clustering": 0.135788,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 6.41
+  },
+  {
+    "tick": 27,
+    "rewire_percentage": 54,
+    "ADS": 3.917194,
+    "Avg_Clustering": 0.127998,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 7.01
+  },
+  {
+    "tick": 28,
+    "rewire_percentage": 56,
+    "ADS": 3.907102,
+    "Avg_Clustering": 0.122114,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 6.3
+  },
+  {
+    "tick": 29,
+    "rewire_percentage": 58,
+    "ADS": 3.892064,
+    "Avg_Clustering": 0.115982,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 6.25
+  },
+  {
+    "tick": 30,
+    "rewire_percentage": 60,
+    "ADS": 3.875158,
+    "Avg_Clustering": 0.10757,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.85
+  },
+  {
+    "tick": 31,
+    "rewire_percentage": 62,
+    "ADS": 3.863808,
+    "Avg_Clustering": 0.103992,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.75
+  },
+  {
+    "tick": 32,
+    "rewire_percentage": 64,
+    "ADS": 3.846605,
+    "Avg_Clustering": 0.097283,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 6.03
+  },
+  {
+    "tick": 33,
+    "rewire_percentage": 66,
+    "ADS": 3.837571,
+    "Avg_Clustering": 0.093198,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.86
+  },
+  {
+    "tick": 34,
+    "rewire_percentage": 68,
+    "ADS": 3.82808,
+    "Avg_Clustering": 0.087143,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 6.06
+  },
+  {
+    "tick": 35,
+    "rewire_percentage": 70,
+    "ADS": 3.81394,
+    "Avg_Clustering": 0.081709,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 6.01
+  },
+  {
+    "tick": 36,
+    "rewire_percentage": 72,
+    "ADS": 3.812537,
+    "Avg_Clustering": 0.080477,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.61
+  },
+  {
+    "tick": 37,
+    "rewire_percentage": 74,
+    "ADS": 3.801579,
+    "Avg_Clustering": 0.074689,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.95
+  },
+  {
+    "tick": 38,
+    "rewire_percentage": 76,
+    "ADS": 3.797764,
+    "Avg_Clustering": 0.070241,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.62
+  },
+  {
+    "tick": 39,
+    "rewire_percentage": 78,
+    "ADS": 3.789202,
+    "Avg_Clustering": 0.068101,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.94
+  },
+  {
+    "tick": 40,
+    "rewire_percentage": 80,
+    "ADS": 3.781267,
+    "Avg_Clustering": 0.065839,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 6.02
+  },
+  {
+    "tick": 41,
+    "rewire_percentage": 82,
+    "ADS": 3.778621,
+    "Avg_Clustering": 0.062387,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.66
+  },
+  {
+    "tick": 42,
+    "rewire_percentage": 84,
+    "ADS": 3.77289,
+    "Avg_Clustering": 0.060622,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.57
+  },
+  {
+    "tick": 43,
+    "rewire_percentage": 86,
+    "ADS": 3.772561,
+    "Avg_Clustering": 0.059276,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.63
+  },
+  {
+    "tick": 44,
+    "rewire_percentage": 88,
+    "ADS": 3.770285,
+    "Avg_Clustering": 0.054894,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.75
+  },
+  {
+    "tick": 45,
+    "rewire_percentage": 90,
+    "ADS": 3.767671,
+    "Avg_Clustering": 0.05214,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.7
+  },
+  {
+    "tick": 46,
+    "rewire_percentage": 92,
+    "ADS": 3.764345,
+    "Avg_Clustering": 0.051073,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.61
+  },
+  {
+    "tick": 47,
+    "rewire_percentage": 94,
+    "ADS": 3.756433,
+    "Avg_Clustering": 0.0474,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.9
+  },
+  {
+    "tick": 48,
+    "rewire_percentage": 96,
+    "ADS": 3.749395,
+    "Avg_Clustering": 0.041776,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.37
+  },
+  {
+    "tick": 49,
+    "rewire_percentage": 98,
+    "ADS": 3.745988,
+    "Avg_Clustering": 0.039615,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.45
+  },
+  {
+    "tick": 50,
+    "rewire_percentage": 100,
+    "ADS": 3.737667,
+    "Avg_Clustering": 0.039754,
+    "Giant_Component": 100,
+    "Compute_Time_ms": 5.52
+  }
+]
